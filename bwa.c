@@ -1,6 +1,6 @@
 #include <string.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <assert.h>
 #include "bntseq.h"
 #include "bwa.h"

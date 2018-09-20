@@ -2,7 +2,7 @@
 #define BAMLITE_H_
 
 #include <stdint.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 
 #ifdef USE_MALLOC_WRAPPERS
 #  include "malloc_wrap.h"

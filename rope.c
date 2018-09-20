@@ -2,7 +2,7 @@
 #include <string.h>
 #include <assert.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "rle.h"
 #include "rope.h"
 

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <string.h>
 #include <errno.h>
 #include <assert.h>

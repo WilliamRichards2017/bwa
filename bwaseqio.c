@@ -1,4 +1,4 @@
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <ctype.h>
 #include "bwtaln.h"
 #include "utils.h"

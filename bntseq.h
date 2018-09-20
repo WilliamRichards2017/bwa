@@ -31,7 +31,7 @@
 #include <assert.h>
 #include <stdint.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 
 #ifndef BWA_UBYTE
 #define BWA_UBYTE

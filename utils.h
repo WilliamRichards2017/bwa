@@ -30,7 +30,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 
 #ifdef __GNUC__
 // Tell GCC to validate printf format string and args

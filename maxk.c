@@ -1,4 +1,4 @@
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

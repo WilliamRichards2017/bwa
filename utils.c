@@ -30,7 +30,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <errno.h>
 #ifdef FSYNC_ON_FLUSH
 #include <sys/types.h>
